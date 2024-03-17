@@ -3,6 +3,7 @@
 En esta fase hay que tener en cuenta los siguientes puntos.
 
 [1. Define el objetivo en tétminos empresariales](https://github.com/escalerarodriguezr/handson-ml3/tree/develop/book/01_Enmarcar%20el%20problema%20y%20tener%20una%20visi%C3%B3n%20amplia)
+
 2. ¿Cómo se utilizará la tu solución?
 3. ¿Cuáles son las soluciones alternativas actuales?(si las hay..)
 4. ¿Cómo deberias enmarcar este problema (sipervisado/no supervisado, online/offline, etc,..)
